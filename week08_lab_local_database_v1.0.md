@@ -442,6 +442,13 @@ class SellItemPage extends StatefulWidget {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+1. ภาพหน้าจอที่แสดงให้เห็นว่า Tab รายการโปรดและหน้าร่างประกาศยังคงแสดงข้อมูลได้ตามปกติแม้ไม่มีอินเทอร์เน็ตเลย
+   
+<img width="418" height="962" alt="image" src="https://github.com/user-attachments/assets/ea813b4b-5ee8-4811-84e0-4044e77d1e6c" />
+
+<img width="417" height="967" alt="image" src="https://github.com/user-attachments/assets/d68b9df5-5f1e-4f99-a5be-a16cb9eb97e7" />
+
+
 
 ---
 
