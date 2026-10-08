@@ -210,6 +210,8 @@ capture หน้าจอผลลัพธ์คำสั่ง `dart run buil
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="775" height="177" alt="image" src="https://github.com/user-attachments/assets/233cb1ac-81b3-458e-9f0e-bbee9ca8b7fa" />
+
 
 ---
 
