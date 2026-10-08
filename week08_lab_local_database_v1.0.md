@@ -412,7 +412,23 @@ class SellItemPage extends StatefulWidget {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+ 1. สร้างร่างประกาศใหม่ผ่าน Tab "ลงประกาศขาย" ด้วยความช่วยเหลือของ AI
+    
+<img width="417" height="980" alt="image" src="https://github.com/user-attachments/assets/76710486-1eb0-4f38-b1d0-e9765db88c42" />
 
+2. กดยืนยันร่าง
+
+<img width="415" height="975" alt="image" src="https://github.com/user-attachments/assets/85423293-9de2-4d2d-8b04-944105e3b7f0" />
+
+3. กดปุ่มไอคอนเข้าหน้า "ร่างประกาศของฉัน" แล้วเห็นร่างที่เพิ่งสร้าง
+
+<img width="428" height="435" alt="image" src="https://github.com/user-attachments/assets/7ea5e2d2-75e1-4737-818e-78a2529b8db6" />
+
+4. ปิดแอปให้สนิทแล้วเปิดใหม่ กลับเข้าหน้า "ร่างประกาศของฉัน" อีกครั้ง
+
+<img width="417" height="563" alt="image" src="https://github.com/user-attachments/assets/dda32eff-35e7-4d9a-a807-c8dbbc8ec70b" />
+
+   
 ---
 
 ## ส่วนที่ 6: ทดสอบสถานการณ์ Offline-first
