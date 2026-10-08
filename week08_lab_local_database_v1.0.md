@@ -341,9 +341,26 @@ items: const [
 ```
 1.กดหัวใจที่สินค้า 3 ชิ้น
 
-<img width="412" height="907" alt="image" src="https://github.com/user-attachments/assets/d737c254-bb4b-4d86-88f0-6a988cdcd931" />
+<img width="420" height="972" alt="image" src="https://github.com/user-attachments/assets/916b6845-7613-4cad-8fd8-2d546ae2310f" />
 
 2.เห็นสินค้าในรายการโปรดครบ 3 ชิ้น
+
+<img width="425" height="975" alt="image" src="https://github.com/user-attachments/assets/3fc862f8-d098-4f0c-9f1f-5412816b835d" />
+
+3.ปิดแอปให้สนิท (Force Stop หรือปัดออกจาก Recent Apps) แล้วเปิดใหม่ กลับไปที่ Tab รายการโปรดอีกครั้ง ถ่ายภาพหน้าจอ (ข) และ (ค) เทียบกัน ต้องแสดงรายการเดิมครบทุกชิ้น พร้อมทดสอบกดลบ (Remove) 1 ชิ้น แล้วปิดเปิดแอปใหม่อีกครั้งเพื่อยืนยันว่าการลบก็ถูกบันทึกถาวรเช่นกัน
+
+<img width="417" height="980" alt="image" src="https://github.com/user-attachments/assets/60a439e8-35ee-4d90-9fe1-c2cc5b1f86dd" />
+
+<img width="427" height="973" alt="image" src="https://github.com/user-attachments/assets/fdfd2312-e1c1-4792-96c2-9214292e89d3" />
+
+<img width="415" height="973" alt="image" src="https://github.com/user-attachments/assets/a6f0499a-fa95-4bb4-9282-6f7107498e94" />
+
+4. กลับไปหน้า Home แล้วกดหัวใจซ้ำที่สินค้าชิ้นเดิมอีกครั้ง (ชิ้นที่ยังไม่ได้ลบ) แล้วตรวจสอบที่ Tab รายการโปรดว่ายังแสดงสินค้าชิ้นนั้นแค่แถวเดียว ไม่ซ้ำเป็น 2 แถว และแอปไม่ Error
+
+<img width="416" height="970" alt="image" src="https://github.com/user-attachments/assets/71347bc4-d312-4dce-be14-67d84ddade95" />
+
+
+
 
 
 ---
