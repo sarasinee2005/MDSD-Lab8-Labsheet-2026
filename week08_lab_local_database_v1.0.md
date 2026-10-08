@@ -339,6 +339,12 @@ items: const [
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+1.กดหัวใจที่สินค้า 3 ชิ้น
+
+<img width="412" height="907" alt="image" src="https://github.com/user-attachments/assets/d737c254-bb4b-4d86-88f0-6a988cdcd931" />
+
+2.เห็นสินค้าในรายการโปรดครบ 3 ชิ้น
+
 
 ---
 
